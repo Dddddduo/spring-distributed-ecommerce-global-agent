@@ -12,7 +12,7 @@
 
 | 项目信息 | |
 |---|---|
-| **性质** | 本科毕业设计 · 北华大学 计算机科学技术学院（2026–2027 学年） |
+| **性质** | 本科毕业设计 · 北华大学 计算机科学技术学院 软件工程（2023–2027） |
 | **作者 / 学号** | 朱道阳 / 202315050327 ｜ 邮箱：[1732446549@qq.com](mailto:1732446549@qq.com) |
 | **GitHub** | [Dddddduo](https://github.com/Dddddduo) ｜ 本仓库：[spring-distributed-ecommerce-global-agent](https://github.com/Dddddduo/spring-distributed-ecommerce-global-agent) |
 
